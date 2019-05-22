@@ -1,0 +1,6 @@
+{'app_id':'AGWBYSD47'
+,'client_id':'573575752517.574406897143'
+,'client_secret':'f5d20d1d4a1f931cf4ecf5693e292277'
+,'signing_secret':'7aa8b366a9c2abb7a89dcb7c30a7bcdb'
+,'oauth_token':'xoxp-573575752517-573207991684-573488882386-36f1807b52ed31cbc7fa8f76db043a8e'
+,'bot_auth_token':'xoxb-573575752517-574927922998-8stqZIJx4FWzyR7fMkhhm6JF'}
